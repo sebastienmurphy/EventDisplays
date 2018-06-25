@@ -1,3 +1,4 @@
+// diplays the main 3x1x1 geometry
 import 'vtk.js/Sources/favicon';
 
 import vtkActor from 'vtk.js/Sources/Rendering/Core/Actor';
